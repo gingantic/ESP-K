@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "758746597867",
+    "firebase_url": "https://esp32-kebakaran-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-kebakaran",
+    "storage_bucket": "esp32-kebakaran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758746597867:android:2a571ff9a7c154e8fd71ae",
+        "android_client_info": {
+          "package_name": "com.reihanaditya.esp32_k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPrG0UNecU9s4nj8GGgJdxJuaeeEVznOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
